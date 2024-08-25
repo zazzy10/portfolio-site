@@ -1,0 +1,16 @@
+#head{
+    color: black;
+    text-align: center;
+    text-shadow: aliceblue;
+}
+.cover-container{
+    background-color: deepskyblue;
+
+}
+
+#about{
+    background-color: azure;
+}
+.profile-img{
+    border-radius: 50%;
+}
